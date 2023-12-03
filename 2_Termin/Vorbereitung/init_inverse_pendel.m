@@ -1,4 +1,5 @@
 %%%% Initialization template
+clear
 
 %% Parameters
 % Sim params
