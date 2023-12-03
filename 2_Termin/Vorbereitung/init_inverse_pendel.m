@@ -2,8 +2,8 @@
 
 %% Parameters
 % Sim params
-Te = 20;    %sim time
-Ts = 1e-2;  %step resoultion
+Te = 5;    %sim time
+Ts = 1e-3;  %step resoultion
 % Parameter 1
 m1 = 1.2;           % kg
 m2 = 0.0725;        % kg
